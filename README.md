@@ -128,7 +128,7 @@ Y
 В поле **«Укажите расположение объекта»** вставьте команду:
 
 ```text
-powershell.exe -ExecutionPolicy Bypass -NoExit -File "C:\Scripts\lazy_daily_windows_select_all_except_docx_fast.ps1"
+powershell.exe -ExecutionPolicy Bypass -NoExit -File "C:\Scripts\lazy_daily_v2.ps1"
 ```
 
 Нажмите **Далее**.
