@@ -73,7 +73,7 @@ Documents
 Поместите файл, например, сюда:
 
 ```text
-C:\Scripts\lazy_daily_windows_select_all_except_docx_fast.ps1
+C:\Scripts\lazy_daily_v2.ps1
 ```
 
 Если папки `C:\Scripts` нет, создайте её вручную.
@@ -99,7 +99,7 @@ Y
 Запустите скрипт командой:
 
 ```powershell
-& "C:\Scripts\lazy_daily_windows_select_all_except_docx_fast.ps1"
+& "C:\Scripts\lazy_daily_v2.ps1"
 ```
 
 После запуска в консоли появится сообщение:
